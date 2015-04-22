@@ -3502,17 +3502,18 @@ public final class Settings {
         public static final String LIVE_DISPLAY_HINTED = "live_display_hinted";
 
         /**
+<<<<<<< HEAD
          * Height of navigation bar buttons
          * @hide
          */
         public static final String NAVIGATION_BAR_HEIGHT = "navigation_bar_height";
-
-        /**
+=======
          * Whether "None" mode will act as "Silent"
          * Effectively allowing alarms to always use the alarm stream volume when true.
          * @hide
          */
         public static final String NONE_IS_SILENT = "none_is_silent";
+>>>>>>> upstream/cm-12.1
 
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
